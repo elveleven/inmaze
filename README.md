@@ -1,0 +1,2 @@
+# inmaze
+inmaze instructions
